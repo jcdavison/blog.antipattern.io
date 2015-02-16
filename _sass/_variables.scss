@@ -1,9 +1,31 @@
 // TYPOGRAPHY ================================================
-$base-font: 'source-sans-pro', sans-serif;
-$heading-font: $base-font;
-$caption-font: $base-font;
+
+@font-face{
+  font-family: "TitilliumWeb-Regular";
+  src: url('/assets/fonts/TitilliumWeb-Regular.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: "TitilliumWeb-Light";
+  src: url('/assets/fonts/TitilliumWeb-Light.ttf') format('truetype');
+}
+
+
+@font-face{
+  font-family: "OpenSans-Regular";
+  src: url('/assets/fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: "OpenSans-Light";
+  src: url('/assets/fonts/OpenSans-Light.ttf') format('truetype');
+}
+
+$base-font: 'OpenSans-Regular', sans-serif;
+$heading-font: "TitilliumWeb-Regular";
+$caption-font: 'OpenSans-Light';
 $code-font: 'source-code-pro', monospace;
-$alt-font: 'volkhov', serif;
+$alt-font: 'TitilliumWeb-Light';
 
 $doc-font-size: 16;
 $doc-line-height: 24;
@@ -19,15 +41,18 @@ body {
 
 
 // COLORS =====================================================
+$white              : #fff;
+$black              : #000;
+$grey               : grey;
+$light_grey         : rgba(121, 121, 151, .5);
 $body-color         : #fff;
 $text-color         : #222;
 $base-color         : #343434;    
 $comp-color         : spin($base-color, 180); 
 $border-color       : #ddd;
-$white              : #fff;
-$black              : #000;
 $accent-color       : $black;
 $link-color         : #222;
+$green              : rgb(120, 151, 120);
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;
@@ -36,6 +61,14 @@ $table-header-color           : lighten($table-background, 10);
 $table-hover-color            : darken($table-background, 2);
 $table-stripe-color           : darken($table-background, 4);
 $table-stripe-color-hover     : darken($table-stripe-color, 5);
+
+.grey {
+  color: $grey !important;
+}
+
+.green {
+  color: $green !important;
+}
 
 
 // MEDIA QUERIES ==============================================
