@@ -1,19 +1,5 @@
-# Site navigation links
+- title: AntiPattern.io
+  url: 'http://antipattern.io'
 
-- title: About
-  url: /about/
-
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
-  url: /search/
+- title: Posts
+  url: /

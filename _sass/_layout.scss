@@ -19,7 +19,7 @@ body {
 		vertical-align: top;
 		margin: 0 0 50px;
 		padding: 4px 20px;
-		background-color: $black;
+		background-color: $light_grey;
 		@include media($medium) {
 			width: auto;
 			@include rounded(0 0 10px 10px);
@@ -51,9 +51,10 @@ body {
 		}
 		color: $white;
 		@include rounded(4px);
-		&:hover {
-			background-color: lighten($black, 10);
-		}
+		// &:hover {
+		// 	border: 1px solid $white;
+      // border-radius: 3px;
+		// }
 	}
 }
 // Responsive nav toggle stuff
@@ -171,15 +172,15 @@ body {
 .site-description {
 	margin-top: 0;
 	font-family: $alt-font;
-	@include font-size(16);
+	@include font-size(22);
 	font-weight: 400;
 	font-style: italic;
   color: $grey; 
 	@include animation-duration(1s);
     @include animation-delay(1s);
-	@include media($medium) {
-		@include font-size(20);
-	}
+	// @include media($medium) {
+	// 	@include font-size(22);
+	// }
 }
 
 
