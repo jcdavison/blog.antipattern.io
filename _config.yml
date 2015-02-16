@@ -7,7 +7,6 @@ logo: site-logo.png
 search: true
 port: 9292
 # url: http://localhost:9292
-# url: https://blog-antipattern.herokuapp.com
 url: http://blog.antipattern.io/
 
 # Jekyll configuration
