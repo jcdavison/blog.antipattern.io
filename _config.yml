@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: John Davison
-  avatar: shadow.jpg
+  avatar: railstutor.png
   email: jd@antipattern.io
   disqus-shortname: antipattern
   twitter: startuplandia
