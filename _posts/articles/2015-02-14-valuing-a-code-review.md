@@ -8,11 +8,9 @@ share: true
 ---
 ### This Is Not an Options Pricing Model 
 
-I'm not too certain that the original publication of <a href="http://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model">The Black-Scholes Model</a> expected to see it used on the valuation of a Code Review.  Thankfully, we don't have immediate plans to use it to set code-review prices.  However, being that Antipattern.io, in the most simplistic 'x for y' sense is really like 'uber for code reviews', we must therefore make some decisions about valuation.
+I'm not too certain that the original publication of <a href="http://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model">The Black-Scholes Model</a> expected to see it used on the valuation of a Code Review.  Thankfully, we don't have immediate plans to use it to set code-review prices.  Since Antipattern.io operates as an informal marketplace, we must make some decisions about valuation.
 
-That being said, there is an interesting question to explore here; 
-
-#### 'What <i>IS</i> a code review worth?'
+#### So... 'What <i>IS</i> a code review worth?'
 
 A code review could be simple, it could be complex.  A reviewer could spend 5 minutes or 4 hours looking at your code.  The first code review that I received through Antipattern.io, the code reviewer told me he spent upwards of three hours (this person is someone who works on very useful code like <a href="https://github.com/angular-ui/ui-router/commit/c3d543aae43d4600512520a0d70723ac31f2cb62">angular ui-router</a>). 
 
