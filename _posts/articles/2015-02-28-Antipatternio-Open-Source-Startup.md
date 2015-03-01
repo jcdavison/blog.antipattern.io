@@ -23,7 +23,7 @@ I'd also like to put some of my own ideas onto paper;
 
 1. A successful business doesn't revolve around any one product.
 
-1. Patent's are part of my dialogue.
+1. Patent's are NOT part of my vernacular.
 
 1. Team, community and culture will take a business way farther than machine code.
 
