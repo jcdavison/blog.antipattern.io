@@ -9,13 +9,13 @@ share: true
 
 ### Every Code Review is an Opportunity to Teach and Learn
 
-All participants in the AntiPattern.io community will have the opportunity to donate any portion of their earnings to the Fund a Coder program.  The Fund a Coder program is an experience that will help members of this community become professional coders by paying for both equipment and seats at popular coding bootcamps.
-
 ### Binary Tree or Giving Tree
 
 The first person who reviewed my own code on AntiPattern.io spent more time reviewing the code than I had expected.  His feedback was very valuable.  The code review had a posted value of $50, which I said I would double to $100 no problem.  Oh by the way, he said he wasn't interested in the payment.
 
 Though not the first time it occured to me, I imagine there are many people who will not be overly interesed in the monetary aspect of this marketplace.  However, I truly believe that a good marketplace is based on people offering resources to get the services they want, which means that I don't think that building this marketplace with an expectation of 'free' code reviews is a good idea...
+
+All participants in the AntiPattern.io community will have the opportunity to donate any portion of their earnings to the Fund a Coder program.  The Fund a Coder program is an experience that will help members of this community become professional coders by paying for both equipment and seats at popular coding bootcamps.
 
 ### The 'CrowdSourced' Coding Bootcamp Fund
 
