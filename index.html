@@ -7,7 +7,7 @@ search_omit: true
 
 <ul class="post-list">
 {% assign sortedposts = site.posts | sort %}
-{% for post in sortedposts limit:5 %} 
+{% for post in sortedposts reversed limit:10 %} 
   <li>
     <article>
       <a href="{{ site.url }}{{ post.url }}"><span class="green">{{ post.title }}</span> 
