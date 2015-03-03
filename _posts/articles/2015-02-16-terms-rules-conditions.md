@@ -17,7 +17,7 @@ By participating in the AntiPattern.io community, you the user agree to ALL (as 
 
 1. Antipattern.io is a community that values all people regardless of race, gender, gender orientation, sexual orientation, political or any kind of other orientation. Antipattern.io is intolerant of people who are not tolerant of other people and we will take action to safeguard the well-being of people who are tolerant of other people. Antipattern.io will proactively remove, ban, impede (or any other necessary action) the participation in the community of any person who demonstrates intolerant behavior.
 
-1. All transactions in the community are subject to a 3% service fee.
+1. All transactions in the community are subject to a 5% service fee.
 
 1. Valuing code reviews is probably more art than science and Antipattern.io doesn't expect to have all the answers in all situations.  Antipattern.io firmly believes that in the case of a dispute between any community members, we will always err in favor of the code review and the sanctity of the community.
 
