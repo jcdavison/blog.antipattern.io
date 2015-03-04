@@ -30,9 +30,9 @@ Code Reviewers can choose to exchange their time for Karma.  As soon as possible
 
 ### The 'CrowdSourced' Coding Bootcamp Fund
 
-As a code review occurs between two people, the person giving can donate all or a portion of the value of the code review to the Fund of Coder program.  As that fund grows, it will be used buy laptops and seats in the nation's best coding bootcamp programs.  Any member of the community who is not already a paid professional developer can apply to this program.  Once the AntiPattern.io community is a bit bigger, I'll introduce the marketplace features required to both allow members to apply and to also allow the community to vote of whomever they think should receive a 'scholarship'.
+As the Fund-A-Coder program grows, it will be used buy laptops and seats in the nation's best coding bootcamp programs.  Any member of the community who is not already a paid professional developer can apply to this program.
 
-As an aside, there are many details involved in managing this program.  I've never personally managed anything like this but I have lots of financial management experience.  I'll need to figure out the details, some of which might involve forming a corp 'B'.  In time, I'll promulage more clear structure and details on how to applly to this program and how to participate in it as a general member of the AntiPattern.io community. If you have questions, comments or concerns about this, please reach out to me <a href='mailto:jd@antipattern.io'>jd@antipattern.io</a>.
+As an aside, there are many details involved in managing this program.  I've never personally managed anything like this but I have lots of financial management experience.  I'll need to figure out the details, some of which might involve forming a corp 'B'.  In time, I'll promulgate a more clear structure and details on how to apply to this program and how to participate in it as a general member of the AntiPattern.io community. If you have questions, comments or concerns about this, please reach out to me <a href='mailto:jd@antipattern.io'>jd@antipattern.io</a>.
 
 ### My Personal Commitment
 
