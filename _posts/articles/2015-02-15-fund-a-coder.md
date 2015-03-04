@@ -24,7 +24,7 @@ Code Reviewers can can contribute any portion of their earnings to the Fund a Co
 
 ### Option #2
 
-Code Reviewers can choose to exchange their time for Karma.  Karma points currently don't correlate to anything but it is my plan to get major tech companies in the bay area to contribute funds to the Fund-A-Coder program in a system that correlates to the accumulation of Karma points. 
+Code Reviewers can choose to exchange their time for Karma.  As soon as possible, I will get large tech companies to make contributions to the Fund-A-Coder program that correlate to the accumulation of Karma. 
 
 ![http://cl.ly/image/2r3i2R1W0Z27/Image%202015-03-03%20at%205.13.56%20PM.png](http://cl.ly/image/2r3i2R1W0Z27/Image%202015-03-03%20at%205.13.56%20PM.png)
 
