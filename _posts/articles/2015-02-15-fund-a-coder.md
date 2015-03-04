@@ -15,7 +15,18 @@ The first person who reviewed my own code on AntiPattern.io spent more time revi
 
 Though not the first time it occured to me, I imagine there are many people who will not be overly interesed in the monetary aspect of this marketplace.  However, I truly believe that a good marketplace is based on people offering resources to get the services they want, which means that I don't think that building this marketplace with an expectation of 'free' code reviews is a good idea...
 
-All participants in the AntiPattern.io community will have the opportunity to donate any portion of their earnings to the Fund a Coder program.  The Fund a Coder program is an experience that will help members of this community become professional coders by paying for both equipment and seats at popular coding bootcamps.
+
+### Option #1
+
+Code Reviewers can can contribute any portion of their earnings to the Fund a Coder program.  The Fund a Coder program is an experience that will help members of this community become professional coders by paying for both equipment and seats at popular coding bootcamps.
+
+![http://cl.ly/image/0Q1K3O2d0D0v/Image%202015-03-03%20at%205.04.57%20PM.png](http://cl.ly/image/0Q1K3O2d0D0v/Image%202015-03-03%20at%205.04.57%20PM.png)
+
+### Option #2
+
+Code Reviewers can choose to exchange their time for Karma.  Karma points currently don't correlate to anything but it is my plan to get major tech companies in the bay area to contribute funds to the Fund-A-Coder program in a system that correlates to the accumulation of Karma points. 
+
+![http://cl.ly/image/2r3i2R1W0Z27/Image%202015-03-03%20at%205.13.56%20PM.png](http://cl.ly/image/2r3i2R1W0Z27/Image%202015-03-03%20at%205.13.56%20PM.png)
 
 ### The 'CrowdSourced' Coding Bootcamp Fund
 
