@@ -13,7 +13,7 @@ The Fund-A-Coder program is an experience that will help members of this communi
 
 ### Option #1
 
-Code Reviewers can can contribute any portion of their earnings to the Fund-A-Coder program.  
+Code Reviewers can contribute any portion of their earnings to the Fund-A-Coder program.  
 
 ![http://cl.ly/image/0Q1K3O2d0D0v/Image%202015-03-03%20at%205.04.57%20PM.png](http://cl.ly/image/0Q1K3O2d0D0v/Image%202015-03-03%20at%205.04.57%20PM.png)
 
