@@ -11,7 +11,7 @@ share: true
 
 By participating in the AntiPattern.io community, you the user agree to ALL (as in every) of the below stipulations.
 
-1. You, a happy upstanding member of the commuinty, will behave in a polite, professional manner and will communicate with all members of the community in a polite & professional manner.
+1. You, a happy upstanding member of the community, will behave in a polite, professional manner and will communicate with all members of the community in a polite & professional manner.
 
 1. I, John Davison, Founder of Antipattern.io will strive to ensure that all members of the Antipattern.io community are communicating an interacting in a polite and professional manner.
 
