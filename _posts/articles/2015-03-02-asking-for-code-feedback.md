@@ -15,7 +15,7 @@ Asking for feedback on individual commits of code where those commits represent 
 
 Notice in the below code review that I'm asking for feedback on specific commits and I'm discussing potential antipatterns that I'm aware of.
 
-![http://cl.ly/image/260N1o1Q3521/Image%202015-03-02%20at%209.52.26%20PM.png](http://cl.ly/image/0m1g3Y0v021y/Image%202015-03-02%20at%209.51.09%20PM.png)
+<p class="centered"><img src="/images/i-001.png" class="treatise"></p>
 
 Realize that the purpose of a code review is to have another developer look a the code you have written and give you perspective on the parts they think make sense or don't make sense.  A code review isn't aimed at 'fixing' all or any of your potentially broken code.  StackOverflow does an excellent job at helping people get answers to questions they are stuck on.  
 

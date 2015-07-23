@@ -23,8 +23,6 @@ As the Summer came to close, I had been getting a decent amount of interest in a
 
 Fast forward to March of 2014, after making small but steady successes with rubyonrailstutor.com, Jesse Farmer and I built CodeUnion.io.  Jesse being a veteran coding teacher and myself, beginning to accrue some significant experience as a 'coding bootcamp developer', we focused CodeUnion not around videos or lectures or books or (fill in the blank learning resource) we focused CodeUnion around the process of students writing code and then getting feedback on that code from us.  In fact, from June 2014 to November 2014, I gave about 340 code reviews.
 
-![http://cl.ly/image/3p3u280B3u2Q/Image%202015-02-16%20at%209.13.09%20PM.png](http://cl.ly/image/3p3u280B3u2Q/Image%202015-02-16%20at%209.13.09%20PM.png)
-
 Without getting to heavily into the details of those code reviews, my own outlook and sense of what it meant to write clean readable code changed a lot.  I finally began the process that I think of as 'developing my ear' for code.
 
 ### The Synthesis
