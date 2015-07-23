@@ -6,8 +6,8 @@ description: Every Code Review is an opportunity to Learn and Teach.
 logo: site-logo.png
 search: true
 port: 9292
-url: http://localhost:9292
-# url: http://blog.antipattern.io
+# url: http://localhost:9292
+url: http://blog.antipattern.io
 
 # Jekyll configuration
 
